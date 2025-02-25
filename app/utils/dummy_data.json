@@ -1,0 +1,37 @@
+[
+  {
+      "id": "CT001",
+      "name": "Nguyen Van A",
+      "he_so_luong": 1.5,
+      "luong_co_ban": 10000,
+      "chuc_vu": "Nhan Vien"
+  },
+  {
+      "id": "CT002",
+      "name": "Tran B",
+      "he_so_luong": 2.0,
+      "luong_co_ban": 20000,
+      "chuc_vu": "Giam Doc"
+  },
+  {
+      "id": "CT003",
+      "name": "Le Minh C",
+      "he_so_luong": 1.8,
+      "luong_co_ban": 15000,
+      "chuc_vu": "Truong Pho"
+  },
+  {
+      "id": "CT004",
+      "name": "Phan Thi D",
+      "he_so_luong": 2.2,
+      "luong_co_ban": 25000,
+      "chuc_vu": "Nhan Vien"
+  },
+  {
+      "id": "CT005",
+      "name": "Hoang Thanh E",
+      "he_so_luong": 1.7,
+      "luong_co_ban": 12000,
+      "chuc_vu": "Giam Doc"
+  }
+]
